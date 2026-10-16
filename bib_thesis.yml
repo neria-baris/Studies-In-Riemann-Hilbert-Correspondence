@@ -1,0 +1,344 @@
+
+
+notes:
+  type: article
+  title: Homological Algebra
+  date: 2021-10-10
+  author:
+    - Monnet, Sebastian
+    - Kremnitzer, Kobi
+  url:
+    value: "https://courses.maths.ox.ac.uk/pluginfile.php/26979/mod_resource/content/1/Homological_Algebra%20%2813%29.pdf"
+    date: 2023-10-24
+
+rotman:
+  type: book
+  title: An Introduction to Homological Algebra
+  author: "Rotman, Joseph J."
+  edition: 2
+  publisher: Springer
+  date: 2009
+  url:
+    value: "https://www.matem.unam.mx/~javier/homologica/rotman.pdf"
+    date: 2023-10-24
+
+
+
+borceux:
+  type: book
+  title: Handbook of Categorical Algebra
+  volume: 2
+  date: 1994
+  author: Borceux, Francis
+  publisher: Cambridge University Press
+
+hatcher:
+  type: book
+  title: Algebraic Topology
+  date: 2002
+  author: Hatcher, Allen
+  publisher: Cambridge University Press 
+
+awodey:
+  type: book
+  title: Category Theory
+  date: 2010
+  author: Awodey, Steve 
+  publisher: Oxford University Press
+
+pareigis:
+  type: book
+  title: Categories and Functors 
+  date: 1970
+  author: Pareigis, Bodo
+  publisher: Academic Press
+
+snake-lemma-doc:
+  type: web
+  title: A Proof of The Snake Lemma
+  author: Gardner, Robert
+  date: 2023
+  url:
+    value: https://faculty.etsu.edu/gardnerr/5410/notes/Snake-Lemma.pdf
+    date: 2023-12-31
+
+splitting-lemma-doc:
+  type: web
+  title: "\"Abstract nonsense\" proof of the splitting lemma"
+  author: Noix07
+  date: 2014-04-14
+  url:
+    value: https://math.stackexchange.com/questions/748699/abstract-nonsense-proof-of-the-splitting-lemma/753182#753182
+    date: 2023-12-31
+
+ses-split-projective:
+  type: web
+  title: Every short exact sequence splits implies object is projective?
+  author: Rafael
+  date: 2019-09-02
+  url:
+    value: https://math.stackexchange.com/q/3342026
+    date: 2024-06-12
+
+freyd:
+  type: book
+  title: "Abelian Categories: An Introduction to the Theory of Functors"
+  author: Freyd, Peter
+  series: Harper's Series in Modern Mathematics
+  publisher: Harper & Row
+  date: 1964
+
+mitchell:
+  type: book
+  title: Theory of Categories
+  author: Mitchell, Barry
+  series: Pure and Applied Mathematics
+  volume: 17
+  publisher: Academic Press
+  date: 1965
+
+maclane:
+  type: book
+  title: Categories for the Working Mathematician
+  author: "Mac Lane, Saunders"
+  edition: 2
+  series: Graduate Texts in Mathematics
+  volume: 5
+  publisher: Springer
+  date: 1998
+
+spivak:
+  type: book
+  title: Category Theory for the Sciences
+  author: "Spivak, David I."
+  publisher: MIT Press
+  date: 2014
+
+baer:
+  type: article
+  title: Abelian groups that are direct summands of every containing abelian group
+  author: Baer, Reinhold
+  parent:
+    type: periodical
+    title: Bulletin of the American Mathematical Society
+    volume: 46
+    issue: 10
+  page-range: 800-806
+  date: 1940
+
+tohoku:
+  type: article
+  title: Sur quelques points d'algèbre homologique
+  author: Grothendieck, Alexander
+  parent:
+    type: periodical
+    title: Tôhoku Mathematical Journal
+    volume: 9
+    issue: 2
+  page-range: 119-221
+  date: 1957
+  language: fr
+
+cartan-eilenberg:
+  type: book
+  title: Homological Algebra
+  author:
+    - Cartan, Henri
+    - Eilenberg, Samuel
+  publisher: Princeton University Press
+  date: 1956
+
+coutinho:
+  type: book
+  title: A Primer of Algebraic D-modules
+  author: "Coutinho, S. C."
+  series: London Mathematical Society Student Texts
+  volume: 33
+  publisher: Cambridge University Press
+  date: 1995
+
+Goresky2026:
+  type: manuscript
+  title: Lecture Notes on Sheaves and Perverse Sheaves
+  author: 
+    - Goresky, Mark
+  date: 2026
+  note: Version of June 26, 2026
+
+Dimca2004:
+  type: book
+  title: Sheaves in Topology
+  author: 
+    - Dimca, Alexandru
+  parent:
+    title: Universitext
+  publisher: Springer-Verlag
+  location: Berlin and Heidelberg
+  date: 2004
+  doi: 10.1007/978-3-642-18868-8
+
+Weibel1994:
+  type: book
+  title: An Introduction to Homological Algebra
+  author: 
+    - Weibel, Charles A.
+  parent:
+    title: Cambridge Studies in Advanced Mathematics
+    volume: 38
+  publisher: Cambridge University Press
+  location: Cambridge
+  date: 1994
+  doi: 10.1017/CBO9781139644136
+  url:
+    value: "https://people.math.rochester.edu/faculty/doug/otherpapers/weibel-hom.pdf"
+    date: 2023-10-24
+  
+
+GelfandManin2003:
+  type: book
+  title: Methods of Homological Algebra
+  author: 
+    - Gelfand, Sergei I.
+    - Manin, Yuri I.
+  edition: 2
+  publisher: Springer
+  location: Berlin and Heidelberg
+  date: 2003
+  doi: 10.1007/978-3-662-12492-5
+
+BBD1982:
+  type: book
+  title: Faisceaux pervers
+  author: 
+    - Beilinson, Alexander A.
+    - Bernstein, Joseph
+    - Deligne, Pierre
+  parent:
+    title: Astérisque
+    volume: 100
+  publisher: Société mathématique de France
+  location: Paris
+  date: 1982
+
+KashiwaraSchapira1990:
+  type: book
+  title: Sheaves on Manifolds
+  author:
+    - Kashiwara, Masaki
+    - Schapira, Pierre
+  parent:
+    title: Grundlehren der mathematischen Wissenschaften
+    volume: 292
+  publisher: Springer
+  location: Berlin and Heidelberg
+  date: 1990
+  doi: 10.1007/978-3-662-02661-8
+ 
+HTT2008:
+  type: book
+  title: "D-Modules, Perverse Sheaves, and Representation Theory"
+  author:
+    - Hotta, Ryoshi
+    - Takeuchi, Kiyoshi
+    - Tanisaki, Toshiyuki
+  parent:
+    title: Progress in Mathematics
+    volume: 236
+  publisher: Birkhäuser
+  location: Boston
+  date: 2008
+  doi: 10.1007/978-0-8176-4523-6
+
+Iversen1986:
+  type: book
+  title: "Cohomology of Sheaves"
+  author:
+    - Iversen, Birger
+  parent:
+    title: Universitext
+  publisher: Springer-Verlag
+  location: Berlin Heidelberg New York Tokyo
+  date: 1986
+  isbn: 978-3-540-16389-3
+  doi: 10.1007/978-3-642-82783-9
+
+Curry2018:
+  type: article
+  title: "Dualities between Cellular Sheaves and Cosheaves"
+  author:
+    - "Curry, Justin Michael"
+  date: 2018-04
+  page-range: 966-993
+  serial-number:
+    doi: "10.1016/j.jpaa.2017.06.001"
+  parent:
+    type: periodical
+    title: "Journal of Pure and Applied Algebra"
+    volume: 222
+    issue: 4  
+Shepard1985:
+  type: thesis
+  title: A Cellular Description of the Derived Category of a Stratified Space
+  author: Shepard, Allen Dudley
+  publisher: Brown University
+  date: 1985
+
+Keller1994:
+  type: article
+  title: Deriving DG categories
+  author: Keller, Bernhard
+  parent:
+    type: periodical
+    title: Annales scientifiques de l'École Normale Supérieure
+    volume: 27
+    issue: 1
+  page-range: 63-102
+  date: 1994
+
+Keller2006:
+  type: article
+  title: On differential graded categories
+  author: Keller, Bernhard
+  parent:
+    type: proceedings
+    title: "International Congress of Mathematicians, Madrid 2006"
+    volume: 2
+    publisher: European Mathematical Society
+  page-range: 151-190
+  date: 2006
+
+KremnitzerWei2023:
+  type: web
+  title: "Homological Algebra"
+  author:
+    - "Wei, Yuhang"
+    - "Kremnitzer, Kobi"
+  date: 2023
+  url:
+    value: "https://github.com/EricWay1024/Homological-Algebra-Notes"
+    date: 2026-08-11
+
+NandaCAT:
+  type: web
+  title: "Computational Algebraic Topology"
+  author:
+    - "Nanda, Vidit"
+  url:
+    value: "https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf"
+    date: 2026-08-11
+
+
+AbramskyBrandenburger2011:
+  type: article
+  title: The sheaf-theoretic structure of non-locality and contextuality
+  author:
+    - Abramsky, Samson
+    - Brandenburger, Adam
+  date: 2011
+  parent:
+    type: periodical
+    title: New Journal of Physics
+    volume: 13
+  serial-number:
+    arxiv: "1102.0264"
+  page-range: "113036"
